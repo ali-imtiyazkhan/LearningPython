@@ -39,8 +39,6 @@ chars = [char.upper() for char in word]
 print(f"\nUPPERCASE characters: {chars}")
 
 
-
-
 print("\n")
 
 L11 = [1,2,3]
